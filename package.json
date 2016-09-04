@@ -20,7 +20,8 @@
     "start": "node bundle.js"
   },
   "dependencies": {
-    "purescript": "^0.9.1",
+    "purescript": "^0.9.2",
+    "virtual-dom": "^2.1.1",
     "purescript-psa": "^0.3.8",
     "purs-loader": "^2.0.0-rc.1",
     "source-map-loader": "^0.1.5",
